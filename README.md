@@ -12,7 +12,7 @@ I am starting off with seq2seq as course uses it to build a chatbot. I ran into 
 
 ### Seq2Seq
 - [Seq2Seq - Wikipedia](https://en.wikipedia.org/wiki/Seq2seq)
-- [seq2seq model in Machine Learning](https://www.geeksforgeeks.org/seq2seq-model-in-machine-learning/)
+- [seq2seq model in Machine Learning - GeeksForGeeks.org](https://www.geeksforgeeks.org/seq2seq-model-in-machine-learning/)
 - [Understanding RNNs, LSTM and Seq2Seq model using a Practical implementation of chatbot in Tensorflow](https://towardsdatascience.com/understanding-rnns-lstm-and-seq2seq-model-using-a-practical-implementation-of-chatbot-in-2b9ab76d1eda) by [Harsh Panwar](https://towardsdatascience.com/@harshpanwar9524?source=post_page-----2b9ab76d1eda----------------------)
 
 ### Google Meena
