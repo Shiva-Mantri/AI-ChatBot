@@ -8,7 +8,7 @@ Start with this course - [Deep Learning and NLP A-Z™: How to create a ChatBot]
 I am keeping this at the top, because I am proponent of buy over build. You build, only if there are no products out there that meets most of your requirements. Hence, I will research bots available in the market
 
 ## Rearch - Build ChatBot
-I am starting off with seq2seq as course uses it to build a chatbot. I ran into Google Meena while quick research on seq2seq. Based on initial research, this is the best chat bot available. Lets see how my learning goes and how we meet our goal of selecting or building a chatbot. Update (4/30/2020): FB released their own chat bot that they claim it is better than Google's. 
+I am starting off with seq2seq as course uses it to build a chatbot. I ran into Google Meena while quick research on seq2seq. Based on initial research, this is the best chat bot available. Lets see how my learning goes and how we meet our goal of selecting or building a chatbot. Update (4/30/2020): FB released their own chat bot that they claim is better than Google's. 
 
 ### Seq2Seq
 - [Seq2Seq - Wikipedia](https://en.wikipedia.org/wiki/Seq2seq)
