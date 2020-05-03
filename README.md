@@ -14,6 +14,7 @@ I am starting off with seq2seq as course uses it to build a chatbot. I ran into 
 - Free online course - Deep Learning for Natural Language Processing (University of Oxford via Independent)
   - Course link - https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md 
   - Pre-Req - http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/
+- 10 Free Top Notch Natural Language Processing Courses = https://www.kdnuggets.com/2019/10/10-free-top-notch-courses-natural-language-processing.html
 
 ### Seq2Seq
 - [Seq2Seq - Wikipedia](https://en.wikipedia.org/wiki/Seq2seq)
