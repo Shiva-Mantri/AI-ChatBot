@@ -9,6 +9,10 @@ I am keeping this at the top, because I am proponent of buy over build. You buil
 # Research - Build ChatBot
 I am starting off with seq2seq as course uses it to build a chatbot. I ran into Google Meena while quick research on seq2seq. Based on initial research, this is the best chat bot available. Lets see how my learning goes and how we meet our goal of selecting or building a chatbot. Update (4/30/2020): FB released their own chat bot that they claim is better than Google's. 
 
+## Build ChatBot - Samples/Hands On
+[Serverless BERT with Hugging Face](https://www.philschmid.de/serverless-bert-with-huggingface-and-aws-lambda) (https://www.philschmid.de/)
+
+
 ## Books and Courses
 - Free eBook: Python Machine Learning By Example (Packt) - https://www.packtpub.com/free-ebooks/big-data-and-business-intelligence/python-machine-learning-example/9781783553112
 - Free online course - Deep Learning for Natural Language Processing (University of Oxford via Independent)
